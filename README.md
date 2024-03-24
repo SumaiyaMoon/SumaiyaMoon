@@ -37,7 +37,7 @@
 # About me
 
 <p>
- <img align="right" width="350" src="/assets/programmer.png" alt="Coding png" />
+ <img align="right" width="350" height="100" src="/assets/programmer.png" alt="Coding png" />
   
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
