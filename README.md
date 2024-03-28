@@ -40,12 +40,9 @@
  🔭 &emsp; I’m currently working on **Mern Stack**<br/><br/>
  💬 &emsp; Ask me about **React Native, MongoDB, ExpressJS, ReactJS, and NodeJS**<br/><br/>
  🌱 &emsp; learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: sumaiyaaltafmoon@gmail.com<br/><br/>
-
 
 </p>
 
-<br/>
 <br/>
 <br/>
 
@@ -75,9 +72,6 @@
 ![UnSplash](https://img.shields.io/badge/Unsplash-000000?style=for-the-badge&logo=Unsplash&logoColor=white)
 ![Axios](https://img.shields.io/badge/axios-671ddf?&style=for-the-badge&logo=axios&logoColor=white)
 ![Shopify](https://img.shields.io/badge/shopify-8DB543?style=for-the-badge&logo=Shopify&logoColor=white)
-
-# and more 😃
-
 
 
 
