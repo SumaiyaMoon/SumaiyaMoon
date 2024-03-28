@@ -36,14 +36,14 @@
 <p>
  <img align="right" width="250" src="/assets/programmer.png" alt="Coding png" />
   
- ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/>
- 🔭 &emsp; I’m currently working on **Mern Stack**<br/>
- 🌱 &emsp; I’m currently learning **React Native**<br/>
- 👨‍💻 &emsp; All of my projects are available at [https://github.com/SumaiyaMoon/](https://github.com/SumaiyaMoon/) <br/>
- 📝 &emsp; I write articles on [https://medium.com/@sumaiyaaltafmoon](https://medium.com/@sumaiyaaltafmoon) <br/>
- ❤️ &emsp; Love to writing code and learning new features<br/>
- 📧 &emsp; Reach me anytime: sumaiyaaltafmoon@gmail.com<br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/SumaiyaMoon/SumaiyaMoon/issues)
+ ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
+ 🔭 &emsp; I’m currently working on **Mern Stack**<br/><br/>
+ 🌱 &emsp; Ask me about **React Native**<br/><br/>
+ 👨‍💻 &emsp; All of my projects are available at [https://github.com/SumaiyaMoon/](https://github.com/SumaiyaMoon/) <br/><br/>
+ 📝 &emsp; I write articles on [https://medium.com/@sumaiyaaltafmoon](https://medium.com/@sumaiyaaltafmoon) <br/><br/>
+ ❤️ &emsp; Love to writing code and learning new features<br/><br/>
+ 📧 &emsp; Reach me anytime: sumaiyaaltafmoon@gmail.com<br/><br/>
+ 💬 &emsp; Ask me about anything : Email [here](https://github.com/SumaiyaMoon/SumaiyaMoon/issues)
 
 </p>
 
