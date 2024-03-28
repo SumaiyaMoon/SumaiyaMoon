@@ -3,13 +3,13 @@
 </a>
 
 <!-- Intro  -->
-<h3 align="center">
+<h1 align="center">
         <samp>&gt; Hey There!, I am
                 <b><a target="_blank" href="https://sumaiya-moon.web.app">Sumaiya Moon</a></b>
         </samp>
-</h3>
+</h1>
 
-<p align="center"> 
+<h3 align="center"> 
   <samp>
     <a href="https://www.google.com/search?q=Sumaiya+Moon">「 Google Me 」</a>
     <br>
@@ -17,7 +17,7 @@
     <br>
     <br>
   </samp>
-</p>
+</h3>
 
 <p align="center">
  <a href="mailto:sumaiyaaltafmoon@gmail.com" target="blank">
