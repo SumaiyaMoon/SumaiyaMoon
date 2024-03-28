@@ -40,6 +40,10 @@
  <img align="right" width="300" src="/assets/programmer.png" alt="Coding png" />
   
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
+ 🔭 &emsp; I’m currently working on **Mern Stack**<br/><br/>
+ 🌱 &emsp; I’m currently learning **React Native**<br/><br/>
+ 👨‍💻 &emsp; All of my projects are available at [https://github.com/SumaiyaMoon/](https://github.com/SumaiyaMoon/) <br/><br/>
+ 📝 &emsp; I write articles on [https://medium.com/@sumaiyaaltafmoon](https://medium.com/@sumaiyaaltafmoon) <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
  📧 &emsp; Reach me anytime: sumaiyaaltafmoon@gmail.com<br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/SumaiyaMoon/SumaiyaMoon/issues)
@@ -77,7 +81,7 @@
 ![Axios](https://img.shields.io/badge/axios-671ddf?&style=for-the-badge&logo=axios&logoColor=white)
 ![Shopify](https://img.shields.io/badge/shopify-8DB543?style=for-the-badge&logo=Shopify&logoColor=white)
 
-## and more 😃
+# and more 😃
 
 
 
@@ -85,7 +89,7 @@
 <br/>
 
 <p align="left">
-  <a href="https://github.com/SumaiyaMoon?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+  <a href="https://github.com/SumaiyaMoon?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-Access%20My%20All%20Repos%20Here%20✅-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
 
 <br/>
