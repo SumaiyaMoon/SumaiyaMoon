@@ -38,12 +38,10 @@
   
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  🔭 &emsp; I’m currently working on **Mern Stack**<br/><br/>
- 🌱 &emsp; Ask me about **React Native**<br/><br/>
- 👨‍💻 &emsp; All of my projects are available at [https://github.com/SumaiyaMoon/](https://github.com/SumaiyaMoon/) <br/><br/>
- 📝 &emsp; I write articles on [https://medium.com/@sumaiyaaltafmoon](https://medium.com/@sumaiyaaltafmoon) <br/><br/>
- ❤️ &emsp; Love to writing code and learning new features<br/><br/>
+ 💬 &emsp; Ask me about **React Native, MongoDB, ExpressJS, ReactJS, and NodeJS**<br/><br/>
+ 🌱 &emsp; learning new features<br/><br/>
  📧 &emsp; Reach me anytime: sumaiyaaltafmoon@gmail.com<br/><br/>
- 💬 &emsp; Ask me about anything : Email [here](https://github.com/SumaiyaMoon/SumaiyaMoon/issues)
+
 
 </p>
 
