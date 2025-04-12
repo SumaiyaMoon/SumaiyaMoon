@@ -22,10 +22,7 @@
  <a href="mailto:sumaiyaaltafmoon@gmail.com" target="blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="SumaiyaMoon" />
  </a>
- <a href="https://medium.com/@sumaiyaaltafmoon" target="_blank">
-  <img src="https://img.shields.io/badge/Medium-000000?&style=for-the-badge&logo=medium&logoColor=white" alt="SumaiyaMoon"  />
-  </a> 
-</p>
+
 <br />
 
 <!-- About Section -->
